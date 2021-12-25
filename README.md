@@ -1,4 +1,4 @@
 # java-project-temperature-conversion
 celsius to fahrenheit and vice versa
 
-![Screenshot (2)](https://user-images.githubusercontent.com/78132956/146803831-323e0b79-eb85-4959-b560-b6921bd6cdc8.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/78132956/147382867-7cf07d51-45ec-463a-b976-af9290f52ef6.png)
